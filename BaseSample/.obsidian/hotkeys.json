@@ -1,1 +1,50 @@
-{}
+{
+    "app:toggle-left-sidebar": [
+        {
+            "modifiers": ["Mod", "Shift"],
+            "key": "B"
+        }
+    ],
+    "command-palette:open": [
+        {
+            "modifiers": ["Mod", "Shift"],
+            "key": "P"
+        }
+    ],
+    "editor:swap-line-up": [
+        {
+            "modifiers": ["Alt"],
+            "key": "ArrowUp"
+        }
+    ],
+    "editor:swap-line-down": [
+        {
+            "modifiers": ["Alt"],
+            "key": "ArrowDown"
+        }
+    ],
+    "obsidian-linter:lint-file": [
+        {
+            "modifiers": ["Alt", "Shift"],
+            "key": "F"
+        }
+    ],
+    "window:zoom-in": [
+        {
+            "modifiers": ["Mod"],
+            "key": "="
+        }
+    ],
+    "window:zoom-out": [
+        {
+            "modifiers": ["Mod"],
+            "key": "-"
+        }
+    ],
+    "window:reset-zoom": [
+        {
+            "modifiers": ["Mod"],
+            "key": "0"
+        }
+    ]
+}

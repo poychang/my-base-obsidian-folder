@@ -1,1 +1,7 @@
-{}
+{
+  "useMarkdownLinks": true,
+  "alwaysUpdateLinks": true,
+  "livePreview": true,
+  "promptDelete": false,
+  "showLineNumber": true
+}
